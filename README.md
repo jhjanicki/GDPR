@@ -10,5 +10,3 @@ Preprocess / prepare the data in R in order to visualize fine issued by countrie
 
 ## Data
 GDPR enforcement tracker: https://www.enforcementtracker.com/
-
-![toolkit-watermark-chart-1687176520048](https://github.com/jhjanicki/GDPR/assets/6565011/2d850b6f-dbb7-4da4-b617-676e2067b5a0)
